@@ -1,0 +1,10 @@
+#theme: jekyll-theme-architect
+
+theme: jekyll-theme-cayman
+
+title: JST CREST Post-Petascale Software Project
+
+supervisor: Mitsuhisa Sato (RIKEN Center for Computational Science)
+
+github:
+  is_project_page: false
