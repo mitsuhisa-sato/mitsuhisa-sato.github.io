@@ -1,10 +1,16 @@
 #theme: jekyll-theme-architect
+#theme: jekyll-theme-cayman
 
-theme: jekyll-theme-cayman
+title: Mitshisa Sato's home page
+email: mitsuhisasato39@gmail.com
+github_username: mitsuhisa-sato
+highlighter: rouge
+svg:
+  optimize: true
+highlighter-theme: monokai
+date_format: "%Y-%M-%D"
+plugins:
+  - jekyll-feed
+category_dir: category/
+tag_dir: tag/
 
-title: JST CREST Post-Petascale Software Project
-
-supervisor: Mitsuhisa Sato (RIKEN Center for Computational Science)
-
-github:
-  is_project_page: false
