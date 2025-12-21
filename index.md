@@ -2,33 +2,24 @@
 title: Mitsuhisa Sato's home page
 ---
 <div style="text-align: right;">
-[Link to Japanese page](./index-j.md).
+<a href=".index-j.md"> Link to Japanese page. <a>
 </div>
 
-
-<B> Mitsuhisa Sato, Ph.D</B>
+<blockquote>
+<FONT size="+2"><B> Mitsuhisa Sato, Ph.D</B> </FONT> 
+</blockquote>
 
 <table border="0" cellspacing="1" cellpadding="2" width="100%">
 <tr> 
 <td width="20%" align="middle"> 
-<img src="images/msato-photo1.jpg" witdth=2cm>
+<img src="img/msato-photo1.jpg" witdth=2cm>
 </td>
 <td width="80%">
-<p>
-<blockquote>
-<FONT size="+2"><B> Mitsuhisa Sato, Ph.D</B> </FONT> 
-</blockquote>
-Professor (Cooperative Graduate School Program) of
-<a href="http://www.cs.tsukuba.ac.jp/english/">Department of Computer Science</a>,
-<a href="http://www.sie.tsukuba.ac.jp/eng/"> Graduate School of Systems and Information Engineering </a>/ <br>
-Fellow of 
-<a href="http://www.ccs.tsukuba.ac.jp">Center for Computational Sciences</a>, <br>
-<a href="http://www.tsukuba.ac.jp/english">University of Tsukuba</a> <br>
-</p>
-<p>
-Deputy Director of <a href="https://www.r-ccs.riken.jp/"> RIKEN Center for Computational Science</a>,
-<a href="https://pro-env.riken.jp/https://pro-env.riken.jp/"> Team leader of programming environment research team</a>, R-CCS, RIKEN
-</p>
+
+- Division Director of [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/)
+- Professor tive Graduate School Program) of [Department of Computer Science](http://www.cs.tsukuba.ac.jp/english/) [Graduate School of Systems and Information Engineering](http://www.sie.tsukuba.ac.jp/eng/)
+- Fellow of [Center for Computational Sciences](http://www.ccs.tsukuba.ac.jp), [University of Tsukuba](http://www.tsukuba.ac.jp/english)
+
 </td>
 </tr>
 </table>
@@ -37,7 +28,7 @@ Deputy Director of <a href="https://www.r-ccs.riken.jp/"> RIKEN Center for Compu
 - Professor tive Graduate School Program) of [Department of Computer Science](http://www.cs.tsukuba.ac.jp/english/) [Graduate School of Systems and Information Engineering](http://www.sie.tsukuba.ac.jp/eng/)
 - Fellow of [Center for Computational Sciences](http://www.ccs.tsukuba.ac.jp), [University of Tsukuba](http://www.tsukuba.ac.jp/english)
 
-![my photo](img//msato-photo1.jpg)
+% ![my photo](img//msato-photo1.jpg)
 
 # Contact information 
 
