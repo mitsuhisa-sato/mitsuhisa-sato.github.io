@@ -2,7 +2,7 @@
 title: Mitsuhisa Sato's home page
 ---
 <div style="text-align: right;">
-<a href=".index-j.md"> Link to Japanese page. <a>
+<a href=".index-j.md"> Link to Japanese page. </a>
 </div>
 
 <blockquote>
