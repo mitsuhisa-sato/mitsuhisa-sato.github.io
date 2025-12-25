@@ -39,11 +39,13 @@ Deputy Director of <a href="https://www.r-ccs.riken.jp/"> RIKEN Center for Compu
 # Contact information 
 
 ```
+<div>
 Mitsuhisa Sato,  <br>
 Divsion Director of QC-HPC hybrid platform Divison, <br>
 RIKEN Center for Computational Science, <br>
 7-1-26, Minatojima-minami-machi, Chuo-ku, Kobe, Hyogo, 650-0047, Japan <br>
 Email: msato@riken.jp 
+</div>
 ```
 
 ## Research Interests

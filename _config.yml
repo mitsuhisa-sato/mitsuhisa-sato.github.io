@@ -8,3 +8,7 @@ supervisor: Mitsuhisa Sato (Juntendo Univ/RIKEN Center for Computational Science
 
 github:
   is_project_page: false
+
+sidebar:
+  - menu
+  
