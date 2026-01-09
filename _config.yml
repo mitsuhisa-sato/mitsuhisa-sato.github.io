@@ -1,14 +1,5 @@
-#theme: jekyll-theme-architect
-
-theme: jekyll-theme-cayman
-
+theme: jekyll-theme-architect
 title: Mitsuhisa Sato's home page
-
-supervisor: Mitsuhisa Sato (Juntendo Univ/RIKEN Center for Computational Science)
-
-github:
-  is_project_page: false
-
-sidebar:
-  - menu
-  
+description: Architect is a theme for GitHub Pages.
+# show_downloads: true
+google_analytics:
